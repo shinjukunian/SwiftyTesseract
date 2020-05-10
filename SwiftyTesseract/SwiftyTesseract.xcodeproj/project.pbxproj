@@ -331,7 +331,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
-				LastUpgradeCheck = 1000;
+				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = "Steven Sherry";
 				TargetAttributes = {
 					620C843223FA7F23009F6BE7 = {
@@ -547,7 +547,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				"MODULEMAP_FILE[sdk=*]" = "${SRCROOT}/SwiftyTesseract/module.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
