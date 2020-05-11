@@ -43,7 +43,6 @@
 		62DF38C02066AC2A008F0476 /* Bundle+pathToTrainedData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62DF38BE2066AC2A008F0476 /* Bundle+pathToTrainedData.swift */; };
 		62E2B8AE2097B75800147083 /* MVRCode3.png in Resources */ = {isa = PBXBuildFile; fileRef = 62E2B8AD2097B75800147083 /* MVRCode3.png */; };
 		62E2B8B22097C7C300147083 /* Lenore3.png in Resources */ = {isa = PBXBuildFile; fileRef = 62E2B8B12097C7C300147083 /* Lenore3.png */; };
-		62E3D1D1204879EE0030AB11 /* image_sample.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62E3D1D0204879EE0030AB11 /* image_sample.jpg */; };
 		62E3D1D2204880400030AB11 /* image_sample.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62E3D1D0204879EE0030AB11 /* image_sample.jpg */; };
 		62E3D1E22049FAAE0030AB11 /* IMG_1108.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 62E3D1E12049FAAE0030AB11 /* IMG_1108.jpg */; };
 		8703EC8222032A54005B03EA /* MultipleInterwordSpaces.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8703EC8122032A54005B03EA /* MultipleInterwordSpaces.jpg */; };
@@ -355,6 +354,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 6271A3CA2047A0D7005DB23B;
 			productRefGroup = 6271A3D52047A0D7005DB23B /* Products */;
@@ -373,7 +373,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				62E3D1D1204879EE0030AB11 /* image_sample.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
